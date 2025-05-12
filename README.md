@@ -1,6 +1,7 @@
 # POO-CEUB
 ___Programação orientada a objetos java___
-*Noções de:*
+
+__Noções de:__
 * Encapsulamento
 * Herança
 * Polimorfismo
