@@ -1,10 +1,6 @@
 public class Professor extends Pessoa{
     private String matriculaProfessor;
 
-    public Professor(){
-        super();
-    }
-
     public Professor(String cpfPessoa, String nomePessoa, Date dataNascimento, String telefone, String logradouroEndereco, String complementoEndereco, String estadoEndereco, String cep, String matriculaProfessor){
         super(String cpfPessoa, String nomePessoa, Date dataNascimento, String telefone, String logradouroEndereco, String complementoEndereco, String estadoEndereco, String cep);
         this.matriculaProfessor = matriculaProfessor;
